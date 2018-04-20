@@ -13,3 +13,10 @@ h1
 	width: 50%;
 	height: 50%;
 }
+
+h2
+{
+	font-size: 100px;
+	color: orange;
+	font-weight: bold;
+}
