@@ -7,3 +7,9 @@ h1
 {
 	text-align: center;
 }
+
+#fiximage
+{
+	width: 50%;
+	height: 50%;
+}
